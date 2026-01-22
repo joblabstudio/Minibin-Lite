@@ -1,5 +1,5 @@
 
-# Minibin Lite: Technical Analysis & Benefits
+# Minibin Lite
 
 Minibin Lite is a lightweight system utility designed to manage the Windows Recycle Bin directly from the notification area (system tray). Unlike bulky third-party solutions, this project is focused on maximum performance and native integration.
 
