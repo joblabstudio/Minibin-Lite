@@ -38,22 +38,6 @@ Ensure that the following two files are in the same folder:
     -   Compile the C# wrapper with metadata.
         
     -   Generate the `Minibin Lite.exe` file in the same directory.
-        
-
-### 3. Usage
-
--   The resulting **Minibin Lite.exe** is fully portable. You can move it to any folder.
-    
--   Upon execution, it creates a temporary runtime script and launches it in hidden mode.
-    
--   To remove the program, simply close it via the tray (Exit) and delete the EXE file.
-    
-
-### 4. Troubleshooting
-
--   **Compiler Error (csc.exe not found)**: Ensure that .NET Framework is installed (standard on Windows 10/11).
-    
--   **Icon Not Updating**: Windows Explorer sometimes caches icons. Try moving the file to another folder or restarting `explorer.exe`.
 
 ## 1. Key Features
 
